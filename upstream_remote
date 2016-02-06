@@ -1,1 +1,11 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is the repository you originally forked from. The origin is the repo on github that you are constantly pulling and pushing to. The upstream is the repo you can make a pull request to contribute to.
+
+To give context today my first exercise was to fork makersacademy/learningplan.
+This created a repo kevinpmcc/learningplan on my github.
+I cloned this repo to my computer.
+
+The makersacademy/learningplan in github is the upstream
+The kevinpmcc/learningplan in github is the origin
+The learningplan on my computer is a clone of the origin
+
+
