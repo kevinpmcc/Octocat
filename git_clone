@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+"git clone" makes an exact copy (a clone) of a repository. For example when we git clone from github everything that is in the repository on github will be downloaded to your local computer. It creates a new directory with the name of the repository in the location you git clone from.
