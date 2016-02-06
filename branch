@@ -1,1 +1,5 @@
-Explain what a branch is, in your own words
+A branch is a track of changes made to a repo. 
+
+The default branch on a repo is master.
+
+You can create additional branches so you can make changes without messing with the master. Only when you're confident the other branch is exactly as you want it can you merge it back into the master branch. This will take all changes made in master and all changes made in the other branch and merge them together. If there are any conflicts you need to resolve those before merging.
